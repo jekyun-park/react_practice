@@ -4,7 +4,10 @@ import "./About.css";
 function About() {
   return (
     <div className="about__container">
-      <span>This is About Page</span>
+      <span>
+        Developer link to GitHub :
+        <a href="https://github.com/jekyun-park"> jekyun-park</a>
+      </span>
     </div>
   );
 }
